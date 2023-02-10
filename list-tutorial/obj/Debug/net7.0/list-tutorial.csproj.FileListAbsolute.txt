@@ -1,0 +1,15 @@
+C:\src\csharpTutorials\list-tutorial\bin\Debug\net7.0\list-tutorial.exe
+C:\src\csharpTutorials\list-tutorial\bin\Debug\net7.0\list-tutorial.deps.json
+C:\src\csharpTutorials\list-tutorial\bin\Debug\net7.0\list-tutorial.runtimeconfig.json
+C:\src\csharpTutorials\list-tutorial\bin\Debug\net7.0\list-tutorial.dll
+C:\src\csharpTutorials\list-tutorial\bin\Debug\net7.0\list-tutorial.pdb
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.csproj.AssemblyReference.cache
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.AssemblyInfoInputs.cache
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.AssemblyInfo.cs
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.csproj.CoreCompileInputs.cache
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.dll
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\refint\list-tutorial.dll
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.pdb
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\list-tutorial.genruntimeconfig.cache
+C:\src\csharpTutorials\list-tutorial\obj\Debug\net7.0\ref\list-tutorial.dll

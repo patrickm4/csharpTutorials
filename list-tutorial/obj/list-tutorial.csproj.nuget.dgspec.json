@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\csharpTutorials\\branches-tutorial\\BranchesAndLoops.csproj": {}
+    "C:\\src\\csharpTutorials\\list-tutorial\\list-tutorial.csproj": {}
   },
   "projects": {
-    "C:\\src\\csharpTutorials\\branches-tutorial\\BranchesAndLoops.csproj": {
+    "C:\\src\\csharpTutorials\\list-tutorial\\list-tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\csharpTutorials\\branches-tutorial\\BranchesAndLoops.csproj",
-        "projectName": "BranchesAndLoops",
-        "projectPath": "C:\\src\\csharpTutorials\\branches-tutorial\\BranchesAndLoops.csproj",
+        "projectUniqueName": "C:\\src\\csharpTutorials\\list-tutorial\\list-tutorial.csproj",
+        "projectName": "list-tutorial",
+        "projectPath": "C:\\src\\csharpTutorials\\list-tutorial\\list-tutorial.csproj",
         "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\csharpTutorials\\branches-tutorial\\obj\\",
+        "outputPath": "C:\\src\\csharpTutorials\\list-tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Patrick\\AppData\\Roaming\\NuGet\\NuGet.Config"

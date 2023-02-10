@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xhd+hLWWSu9Gd2iSI99quSNwNF773GcTOflIRzt36Ii81ZH3uNZGroIQ+iTZ38Jq0lp6OspLG6Db3vO0tG/5Iw==",
+  "dgSpecHash": "B3aD+1K+Xj0UmNkNuhQtRzKRCzSIgMD+mDIn9sca0p47DeHA1QSqf1SaK+YpdivhMaWCV9nrMwv4KgvrFYvhHg==",
   "success": true,
-  "projectFilePath": "C:\\src\\csharp\\branches-tutorial\\BranchesAndLoops.csproj",
+  "projectFilePath": "C:\\src\\csharpTutorials\\branches-tutorial\\BranchesAndLoops.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

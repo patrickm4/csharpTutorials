@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = list_tutorial
-build_property.ProjectDir = c:\src\csharpTutorials\list-tutorial\
+build_property.RootNamespace = classes
+build_property.ProjectDir = C:\src\csharpTutorials\classes\

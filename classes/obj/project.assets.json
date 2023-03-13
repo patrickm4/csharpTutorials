@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Patrick\\.nuget\\packages\\": {}
+    "C:\\Users\\dthon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\src\\csharpTutorials\\classes\\classes.csproj",
       "projectName": "classes",
       "projectPath": "C:\\src\\csharpTutorials\\classes\\classes.csproj",
-      "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\dthon\\.nuget\\packages\\",
       "outputPath": "C:\\src\\csharpTutorials\\classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Patrick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dthon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
